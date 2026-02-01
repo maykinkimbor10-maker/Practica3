@@ -1,2 +1,2 @@
-# Practica3
-Proyecto de actividad de Practica 3 de HTML Maykin kimbor Gomez 5J
+# Practica3_html
+Archivos iniciales para practicar el uso de github
